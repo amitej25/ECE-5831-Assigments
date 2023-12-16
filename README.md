@@ -1,1 +1,1 @@
-Nural Network/Deep Learning Projects
+Practice on Mnist Dataset 
